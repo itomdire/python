@@ -1,7 +1,7 @@
 print(f"**SELECT THE MENU YOU WANT**")
-print(f"1- MENU A ")
-print(f"2- MENU B ")
-print(f"3- MENU C ")
+print(f"1- MENU TEA ")
+print(f"2- MENU COFFIE ")
+print(f"3- MENU MACIATO ")
 
 menu = input(f"Please enter your Choice :")
 if menu == "1":
